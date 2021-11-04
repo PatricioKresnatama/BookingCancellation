@@ -1,5 +1,5 @@
-# **CharlieTeam - Hotel Bookings**
-Felicya Antoni - Patricio Kresnatama
+# **Hotel Bookings**
+Patricio Kresnatama
 
 # **Table of Content**
 - Introduction
@@ -104,4 +104,4 @@ Kebanyakan pelanggan tidak memerlukan mobil dapat dikarenakan tempat acara yang 
 # **Modeling**
 Model yang digunakan adalah Logistic Regression dan Decision Tree. Model akan memprediksi customer mana yang kemungkinan akan membatalkan bookingan dan tidak. Kedua model ini akan dikomparasi, model mana yang mendapatkan nilai akurasi yang tinggi. 
 <br>
-Evaluasi yang diharapkan adalah memperkecil nilai False Negatif untuk mengurangi kerugian yang lebih besar kepada pihak hotel. Sehingga model evaluasi yang digunakan adalah Precision.
+Evaluasi yang diharapkan adalah memperbesar nilai F1-Score untuk mengurangi kerugian yang lebih besar kepada pihak hotel. 
